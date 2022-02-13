@@ -26,3 +26,10 @@ body {
     height:50px;
     font-family: 'Quintessential', cursive;
 }
+
+
+canvas {
+    border: 5px dashed rgb(59, 146, 228);
+    border-radius: 20px;
+margin-left:100px;
+}
